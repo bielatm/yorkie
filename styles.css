@@ -1,0 +1,8 @@
+body {
+  margin-top: 20px;
+}
+
+.smaller-round-image {
+  width: 150px;
+  border-radius: 50%;
+}
